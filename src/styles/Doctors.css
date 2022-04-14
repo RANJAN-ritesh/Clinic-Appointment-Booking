@@ -1,0 +1,48 @@
+.mapData{
+    display: flex;
+    /* border:1px solid black; */
+    margin-top: 1rem;
+    background-color: aqua;
+    width: 65rem;
+    padding: 0.5rem 2rem;
+    margin-left: 5rem;
+}
+.availabilityDiv{
+    display: flex;
+}
+.availabilityDiv>div{
+    border:1px solid green;
+    padding: 0rem 1rem;
+    margin-left: 1rem;
+}
+.drDetails{
+    display: flex;
+}
+.drDetails>div{
+    margin-right: 1rem;
+    width: 16rem;
+    padding: 0rem 1rem;
+    margin-top: 0.5rem;
+}
+.drDetails>div:nth-child(3){
+    margin-left: 2rem;
+    margin-top: 2.5rem;
+}
+.drDetails>div:nth-child(1){
+    margin-left: 3rem;
+}
+.checkBtn>button{
+    padding: 0.32rem 1rem;
+    background-color: rgb(22, 186, 186);
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+    border:none;
+    border-radius: 0.5rem;
+}
+.spanEle{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: midnightblue;
+    margin-right: 0.5rem;
+}

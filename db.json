@@ -1,0 +1,121 @@
+{
+  "clinics":[
+    {
+        "id":0,
+        "img":"https://imgs.search.brave.com/_7d3u3NGXsEjtcmKafLtuJKLjgaMV85lyIK460jqu1U/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/b3ktMjNuejJRTkl0/OW50VkFCd3ZBSGFF/OCZwaWQ9QXBp",
+        "clinic_name": "Clinic 1",
+        "Doc_no":"5",
+        "Doctor_info":[
+            {  
+                "d_id":0,
+                "p_id":0,
+                "name":"Dr. Ramesh",
+                "available":"9:00 a.m  to  11:00 a.m",
+                "timings":["9:00 a.m - 9:20 a.m","9:30 a.m - 9:50 a.m","10:00 a.m - 10:20 a.m","10:30 a.m - 10:50 a.m"],
+                "speciality":"Orthopedics",
+                "fees":"500",
+                 "img":"https://img.icons8.com/color/96/000000/doctor-male-skin-type-2.png",
+                 "history":[]
+            },
+            {
+              "d_id":1,
+              "p_id":0,
+                "name":"Dr. Madhu",
+                "available":"11:00 a.m  to  1:00 p.m",
+                "timings":["11:00 a.m - 11:20 a.m","11:30 a.m - 11:50 a.m","12:00 p.m - 12:20 p.m","12:30 p.m - 12:50 p.m"],
+                "speciality":"Oncology",
+                "fees":"450",
+                "img":"https://img.icons8.com/color/96/000000/doctor-female.png",
+                "history":[]
+            },
+            {
+              "d_id":2,
+              "p_id":0,
+                "name":"Dr. Suresh",
+                "available":"01:00 p.m  to  03:00 p.m",
+                "timings":["1:00 p.m - 1:20 p.m","1:30 p.m - 1:50 p.m","2:00 p.m - 2:20 p.m","2:30 p.m - 2:50 p.m"],
+                "speciality":"Neurology",
+                "fees":"800",
+                "img":"https://img.icons8.com/color/96/000000/doctor-male-skin-type-2.png",
+                "history":[]
+            },
+            {
+              "d_id":3,
+              "p_id":0,
+                "name":"Dr. Ram",
+                "available":"3:00 p.m  to  5:00 p.m",
+                "timings":["3:00 p.m - 3:20 p.m","3:30 p.m - 3:50 p.m","4:00 p.m - 4:20 p.m","4:30 p.m - 4:50 p.m"],
+                "speciality":"Psychiatry",
+                "fees":"500",
+                "img":"https://img.icons8.com/color/96/000000/doctor-male-skin-type-2.png",
+                "history":[]
+            },
+            {
+              "d_id":4,
+              "p_id":0,
+                "name":"Dr. Shreya",
+                "available":"5:00 p.m  to  7:00 p.m",
+                "timings":["5:00 p.m - 5:20 p.m","5:30 p.m - 5:50 p.m","6:00 p.m - 6:20 p.m","6:30 p.m - 6:50 p.m"],
+                "speciality":"Gynaecology",
+                "fees":"500",
+                "img":"https://img.icons8.com/color/96/000000/doctor-female.png",
+                "history":[]
+            }
+        ],
+        "Speciality_Available":["Orthopedics","Oncology","Neurology","Psychiatry","Gynaecology"]
+    },
+    {
+        "id":1,
+        "img":"https://imgs.search.brave.com/n7w8OfuPNYk1vo4P6yHYuU7rDlAKJ3TUfBk8EJawKhg/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Y/ZTRJcUJSZ2hFd003/ZElZTmFYQU1nSGFF/OCZwaWQ9QXBp",
+        "clinic_name": "Clinic 2",
+        "Doc_no":"4",
+        "Doctor_info":[
+            {
+              "d_id":1.1,
+              "p_id":1,
+                "name":"Dr. Rahul",
+                "available":"9:00 a.m  to  11:00 a.m",
+                "timings":["9:00 a.m - 9:20 a.m","9:30 a.m - 9:50 a.m","10:00 a.m - 10:20 a.m","10:30 a.m - 10:50 a.m"],
+                "speciality":"Surgery",
+                "fees":"900",
+                 "img":"https://img.icons8.com/color/96/000000/doctor-male-skin-type-2.png",
+                 "history":[]
+            },
+            {
+              "d_id":1.2,
+              "p_id":1,
+                "name":"Dr. Parul",
+                "available":"11:00 a.m  to  1:00 p.m",
+                "timings":["11:00 a.m - 11:20 a.m","11:30 a.m - 11:50 a.m","12:00 p.m - 12:20 p.m","12:30 p.m - 12:50 p.m"],
+                "speciality":"Cardiology",
+                "fees":"750",
+                "img":"https://img.icons8.com/color/96/000000/doctor-female.png",
+                "history":[]
+            },
+            {
+              "d_id":1.3,
+              "p_id":1,
+                "name":"Dr. Prashant",
+                "available":"01:00 p.m  to  03:00 p.m",
+                "timings":["1:00 p.m - 1:20 p.m","1:30 p.m - 1:50 p.m","2:00 p.m - 2:20 p.m","2:30 p.m - 2:50 p.m"],
+                "speciality":"ENT",
+                "fees":"700",
+                "img":"https://img.icons8.com/color/96/000000/doctor-male-skin-type-2.png",
+                "history":[]
+            },
+            {
+              "d_id":1.4,
+              "p_id":1,
+                "name":"Dr. Raj",
+                "available":"3:00 p.m  to  5:00 p.m",
+                "timings":["3:00 p.m - 3:20 p.m","3:30 p.m - 3:50 p.m","4:00 p.m - 4:20 p.m","4:30 p.m - 4:50 p.m"],
+                "speciality":"Psychiatry",
+                "fees":"500",
+                "img":"https://img.icons8.com/color/96/000000/doctor-male-skin-type-2.png",
+                "history":[]
+            }
+        ],
+        "Speciality_Available":["Surgery","Cardiology","ENT","Psychiatry"]
+    }
+]
+}

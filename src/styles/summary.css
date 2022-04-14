@@ -1,0 +1,26 @@
+.spanItem{
+    font-weight: 600;
+    font-size: 1.4rem;
+    color: midnightblue;
+}
+.spanItem1{
+    font-weight: 500;
+    font-size: 1.1rem;
+    margin-right: 1rem;
+}
+.headingSumm{
+    font-weight: 600;
+    font-size: 1.6rem;
+    color: rgb(88, 84, 84);
+    text-decoration: underline;
+}
+.summaryParent{
+    margin-left: 5rem;
+    margin-top: 2rem;
+    border: 2px solid rgb(167, 162, 162);
+    width: 50rem;
+    padding: 1rem 3.2rem 2rem 3.2rem;
+}
+.divBorder{
+    border-bottom: 1.5px solid rgb(88, 84, 84);
+}

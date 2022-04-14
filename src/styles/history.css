@@ -1,0 +1,29 @@
+.HistoryParent{
+    margin-left: 5rem;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+.historyMap{
+    display: flex;
+    /* border: 1px solid black; */
+    width: 52rem;
+    padding: 1rem 2rem;
+    margin-bottom: 1rem;
+    background-color: aqua;
+}
+.historyMap>div{
+    margin-right: 2rem;
+    width: 15rem;
+}
+.histHead{
+    font-size: 1.35rem;
+    font-weight: 520;
+    color: midnightblue;
+    margin-bottom: 1rem;
+}
+.histLabel{
+    font-size: 1rem;
+    font-weight: 490;
+    margin-right: 0.7rem;
+}

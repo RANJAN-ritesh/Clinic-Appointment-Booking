@@ -1,0 +1,5 @@
+export const ALLDATA = "ALLDATA"
+export const CLINIC = "CLINIC"
+export const DOCTORS = "DOCTORS"
+export const FIN = "FIN"
+export const CHECK_HISTORY = "CHECK_HISTORY" 
